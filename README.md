@@ -34,3 +34,6 @@ Esta parte mostra os rótulos das classes alvo para cada instância do conjunto 
 Essa saída fornece uma visão geral dos dados presentes no conjunto de dados Iris, incluindo informações sobre suas características, classes alvo e rótulos associados. Essas informações são úteis para entender a estrutura do conjunto de dados antes de aplicar técnicas de aprendizado de máquina.
 
 
+info_Iris_plots_sklearn.py
+Esse script carrega o conjunto de dados Iris, plota um gráfico de dispersão para o comprimento e largura da sépala e um gráfico de dispersão para o comprimento e largura da pétala. Também plota histogramas para o comprimento da sépala e da pétala.
+
