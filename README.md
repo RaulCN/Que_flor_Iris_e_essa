@@ -37,3 +37,6 @@ Essa saída fornece uma visão geral dos dados presentes no conjunto de dados Ir
 info_Iris_plots_sklearn.py
 Esse script carrega o conjunto de dados Iris, plota um gráfico de dispersão para o comprimento e largura da sépala e um gráfico de dispersão para o comprimento e largura da pétala. Também plota histogramas para o comprimento da sépala e da pétala.
 
+classificador_de_flores.py
+Esboço de classificador de flores usando interface gráfica com TKINTER
+
